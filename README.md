@@ -25,8 +25,7 @@ The project follows a standard, reproducible data science structure.
 ```
 public-transport-forecast/
 │
-├── data/
-│   └── Daily_Public_Transport_Passenger_Journeys.csv  (Source Data)
+├── Daily_Public_Transport_Passenger_Journeys.csv  (Source Data)
 │
 ├── notebooks/
 │   ├── 01_Data_Exploration_and_Insights.ipynb        (EDA & Feature Motivation)
