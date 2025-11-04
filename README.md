@@ -48,7 +48,7 @@ We selected **Light Gradient Boosting Machine (LightGBM)** for its speed and abi
 
 -----
 
-## 📊 Key Findings & Insights (Task 1)
+##  Key Findings & Insights (Task 1)
 
 These insights were critical in informing our feature engineering strategy, transforming the raw time series data into highly predictive features.
 
