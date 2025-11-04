@@ -1,8 +1,8 @@
 -----
 
-# 📈 Public Transport Ridership Forecasting Project: Post-COVID Recovery Analysis
+# Public Transport Ridership Forecasting Project: Post-COVID Recovery Analysis
 
-## 🎯 Project Thesis & Executive Summary
+##  Project Thesis & Executive Summary
 
 This project addresses the challenge of forecasting **multivariate time series** data in a post-pandemic environment. We utilized a **Machine Learning (ML) approach** (LightGBM) to forecast daily passenger journeys across five key public transport service types for the next 7 days.
 
@@ -16,7 +16,7 @@ The core objective was to build a robust model that can explicitly capture **com
 
 -----
 
-## ✨ Technical Architecture & Methodology
+##  Technical Architecture & Methodology
 
 ### 1\. Repository Structure
 
@@ -62,7 +62,7 @@ These insights were critical in informing our feature engineering strategy, tran
 
 -----
 
-## 📈 7-Day Production Forecast (Task 2 & Output)
+##  7-Day Production Forecast (Task 2 & Output)
 
 The forecast successfully captures the expected sharp drop in ridership over the weekend (Oct 5th/6th), demonstrating the effectiveness of the engineered holiday and day-of-week features.
 
@@ -86,7 +86,7 @@ The feature importance analysis validates that the model relies heavily on our e
 
 -----
 
-## 🛠️ How to Run & Reproduce
+##  How to Run & Reproduce
 
 ### Dependencies
 
