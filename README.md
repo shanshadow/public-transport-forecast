@@ -1,7 +1,3 @@
-This is the refined and detailed `README.md` format designed to be professional, highlight your technical skills, and effectively communicate project value to both HR and technical reviewers.
-
-I have incorporated key elements like the project thesis, technical architecture, and visual results.
-
 -----
 
 # 📈 Public Transport Ridership Forecasting Project: Post-COVID Recovery Analysis
