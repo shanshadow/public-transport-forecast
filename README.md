@@ -97,8 +97,8 @@ All necessary packages are listed in `requirements.txt`.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [your-repo-url]
-    cd [your-repo-name]
+    git clone [" https://github.com/shanshadow/public-transport-forecast "]
+    cd [ public-transport-forecast ]
     ```
 
 2.  **Setup Environment (Recommended):**
